@@ -11,7 +11,7 @@
         "php": "^8.2.0",
         "ext-tokenizer": "*",
         "solcomart/parser-reflection": "dev-master",
-        "goaop/dissect": "^3.0",
+        "solcomart/dissect": "dev-master",
         "laminas/laminas-code": "^4.13",
         "symfony/finder": "^5.4 || ^6.4 || ^7.0"
     },
