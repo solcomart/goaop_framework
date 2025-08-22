@@ -10,7 +10,7 @@
     "require": {
         "php": "^8.2.0",
         "ext-tokenizer": "*",
-        "solcomart/parser-reflection": "4.x-dev",
+        "solcomart/parser-reflection": "dev-master",
         "goaop/dissect": "^3.0",
         "laminas/laminas-code": "^4.13",
         "symfony/finder": "^5.4 || ^6.4 || ^7.0"
